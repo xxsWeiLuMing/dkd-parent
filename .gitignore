@@ -47,3 +47,4 @@ nbdist/
 !*/build/*.xml
 
 dkd-admin/src/main/resources/application-druid.yml
+dkd-admin/src/main/resources/application.yml
